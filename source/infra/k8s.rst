@@ -89,7 +89,7 @@ TOMCAT deployment
 
 Expose deployment as a service:
 
-`` kubectl expose deployment tomcat-deployment --type=NodePort``
+``kubectl expose deployment tomcat-deployment --type=NodePort``
 
 Get URL:
 
@@ -1051,7 +1051,7 @@ mysql example:
             claimName: mysql-pv-claim
 
 
-** Using a secret as a file**
+**Using a secret as a file**
 
 .. code-block:: bash
 
