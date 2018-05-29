@@ -1177,7 +1177,8 @@ output:
  luka@ubuntu:~/K8S$
 
 - When pods are up access the Grafana Dashboard:
-	- ''minikube addons open heapster``
+	- ``minikube addons open heapster``
+
 
 Namespaces and Resource Quotas
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
