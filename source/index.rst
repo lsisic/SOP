@@ -32,5 +32,5 @@ DevOps dokumentacija!
 
  infra/k8s.rst
  
- infra/terraform.rst
+ infra/Terraform.rst
 
