@@ -31,4 +31,6 @@ DevOps dokumentacija!
  infra/kubernetes.rst
 
  infra/k8s.rst
+ 
+ infra/terraform.rst
 
